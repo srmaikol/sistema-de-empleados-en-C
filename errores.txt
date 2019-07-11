@@ -1,0 +1,1 @@
+Operacion: 5 - Importe negativo: -43.00
